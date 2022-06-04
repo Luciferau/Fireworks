@@ -1,0 +1,4 @@
+E:\workCpp\C_dan_made\C_dan_made\Debug\C_dan_made.exe
+E:\workCpp\firework\end\Debug\C_dan_made.exe
+F:\my_program\workCpp\firework\end\Debug\C_dan_made.exe
+F:\WorkCpp\firework\end\Debug\C_dan_made.exe
